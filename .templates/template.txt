@@ -1,0 +1,10 @@
+0308281  Aparelho de apoio metálico esférico unidirecional com capacidade de 7.000 kN - fornecimento e instalação                           un                     63.465,58
+0308282  Aparelho de apoio metálico esférico unidirecional com capacidade de 7.500 kN - fornecimento e instalação                           un                     69.589,84
+0308283  Aparelho de apoio metálico esférico unidirecional com capacidade de 8.000 kN - fornecimento e instalação                           un                     72.339,35
+0308284  Aparelho de apoio metálico esférico unidirecional com capacidade de 8.500 kN - fornecimento e instalação                           un                     78.186,04
+0308285  Aparelho de apoio metálico esférico unidirecional com capacidade de 9.000 kN - fornecimento e instalação                           un                     82.608,99
+0308286  Aparelho de apoio metálico esférico unidirecional com capacidade de 9.500 kN - fornecimento e instalação                           un                     85.061,28
+0607137 Arco metálico galvanizado tipo MP 152S - arco alto - vão = 10,08 m e altura = 6,12 m - aterro rodoviário mínimo = 0,90 m e          m                      47.060,66
+        máximo = 5,00 m - areia e brita comerciais
+0606785 Arco metálico galvanizado tipo MP 152S - arco alto - vão = 10,08 m e altura = 6,12 m - aterro rodoviário mínimo = 0,90 m e          m                      46.625,00
+máximo = 5,00 m - areia extraída e brita produzida
